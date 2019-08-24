@@ -26,7 +26,6 @@ namespace GigHub.Controllers
             return View(viewModel);
         }
 
-        
 
         [Authorize]
         [HttpPost]
